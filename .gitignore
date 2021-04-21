@@ -9,6 +9,7 @@
 .buildlog/
 .history
 .svn/
+*.bak
 
 # IntelliJ related
 *.iml
