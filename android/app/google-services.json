@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "910408660736",
+    "project_id": "fbdb-prac",
+    "storage_bucket": "fbdb-prac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910408660736:android:8d7f2a28ca29e33a4ea5e5",
+        "android_client_info": {
+          "package_name": "com.limemoon.my_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910408660736-ion520khfncc5ic7ueqgavbthbmfa57k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFaKBbiU_86JjXRB00wQ6I3S4eabLsDXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910408660736-ion520khfncc5ic7ueqgavbthbmfa57k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
