@@ -1,4 +1,4 @@
-name: FlutterWeb
+name: Gh-Pages
 
 on:
   push:
